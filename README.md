@@ -11,7 +11,6 @@ Mark tasks as completed
 Clean and simple user interface
 
 Technologies Used
-
 Frontend:React
 Backend: Node.js, Express.js
 Database: MongoDB, Mongoose
