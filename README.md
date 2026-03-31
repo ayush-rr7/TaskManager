@@ -1,5 +1,5 @@
 
-📋 Task Management Application
+📋 TaskManager
 A full-stack Task Management Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 The application allows users to create, edit, delete, and manage tasks with status tracking.
 
@@ -26,7 +26,7 @@ MongoDB
 Mongoose
 
 📁 Project Structure
-Task-Management-Application/
+TaskManager/
 │
 ├── backend/
 │   ├── models/
@@ -42,7 +42,7 @@ Task-Management-Application/
 ⚙️ Setup Instructions
 
 Clone the repository:
-git clone https://github.com/ayush-rr7/Task-Management-Application.git
+git clone https://github.com/ayush-rr7/TaskManager.git
 
 Navigate to backend folder:
 cd backend
